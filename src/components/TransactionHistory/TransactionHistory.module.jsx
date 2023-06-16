@@ -1,4 +1,4 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
 export const TransactionTable = styled.table`
   overflow: hidden;
@@ -19,7 +19,7 @@ export const TransactionTable = styled.table`
 export const TableThead = styled.thead`
   font-size: 16px;
   line-height: 1.18;
-  background-color: #F5BCE7;
+  background-color: #f5bce7;
 `;
 
 export const TableTbody = styled.tbody`
